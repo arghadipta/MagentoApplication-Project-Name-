@@ -33,7 +33,7 @@ public class MagentoTest {
 		Thread.sleep(2000);
 
 		driver.quit();
-
+		System.out.println("Changes");
 	}
 
 }
